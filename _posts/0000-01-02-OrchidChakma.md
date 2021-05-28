@@ -2,6 +2,6 @@
 layout: slide
 title: 'My slide'
 ---
-Your Text
+how are you
 'click left to go back'
 ---
